@@ -2,8 +2,8 @@
 
 name:Docker CD
 
-on: [push]
-name:Docker CD
+on: push
+
 
 on:
   push:
